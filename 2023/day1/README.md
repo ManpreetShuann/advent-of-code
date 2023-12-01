@@ -1,0 +1,7 @@
+## [Advent of Code 2023 Day 1](https://adventofcode.com/2023/day/1)
+
+[manpreets](https://github.com/ManpreetShuann)
+
+### Result
+
+![result](stars.png)
