@@ -1,1 +1,3 @@
-# [advent-of-code]((https://adventofcode.com/))
+# advent-of-code
+
+## [Advent of Code](https://adventofcode.com/)
